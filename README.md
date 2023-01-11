@@ -1,2 +1,2 @@
-# fair_feature_selection
+# Procedurally fair feature selection
 Ensuring procedural fairness through feature selection

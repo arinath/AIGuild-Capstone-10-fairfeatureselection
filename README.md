@@ -1,2 +1,2 @@
 # Procedurally fair feature selection
-Ensuring procedural fairness through feature selection
+A comparative study to perform feature selection in congruence with agreed definitions of group fairness.
